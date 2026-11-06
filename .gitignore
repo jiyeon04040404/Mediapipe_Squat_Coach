@@ -1,0 +1,25 @@
+# 데이터셋 · 학습 결과물 (용량 큼, 재생성 가능)
+data/
+models/
+test_videos/
+*.pkl
+*.mp4
+
+# 개인 보관용 (중간발표 초안 등)
+_archive/
+
+# Office 임시 파일
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

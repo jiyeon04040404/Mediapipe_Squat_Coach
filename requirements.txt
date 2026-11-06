@@ -1,0 +1,12 @@
+mediapipe==0.10.9
+opencv-python
+numpy<2
+pandas
+scikit-learn
+xgboost
+lightgbm
+matplotlib
+seaborn
+pillow
+tqdm
+jupyter
